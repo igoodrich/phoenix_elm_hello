@@ -12,7 +12,7 @@ Not a lot of work!
 I thought a github project and a diff would be a simplest way to see what should be done.
 If you want more of a walk through, check out the helpful blog posts.
 
-## Links to Relevant Blog Posts
+## Links to Helpful Blog Posts
 This repo is a condensed version of what's here:
 * [Alan Gardner's](http://www.cultivatehq.com/posts/phoenix-elm-2/)
 * [Brandon Richey's](https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.aiom56gn7)
