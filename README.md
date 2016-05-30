@@ -13,11 +13,6 @@ This repo is a condensed version of what's here:
 * [Alan Gardner's](http://www.cultivatehq.com/posts/phoenix-elm-2/)
 * [Brandon Richey's](https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.aiom56gn7)
 
-## Diff
-Short diff of all changes:
-[Diff]
-(https://github.com/igoodrich/phoenix_elm_hello/commit/c8442a72fda6f9fe9e4d16a2fb3a992606823241 "Full Diff")
-
 ## Instructions
 
 ### Make your phoenix app
@@ -28,7 +23,8 @@ mix ecto.create
 mkdir web/elm
 ```
 
-### Edit Files [Diff](https://github.com/igoodrich/phoenix_elm_hello/commit/c8442a72fda6f9fe9e4d16a2fb3a992606823241 "Full Diff")
+### Edit Files
+[Diff](https://github.com/igoodrich/phoenix_elm_hello/commit/c8442a72fda6f9fe9e4d16a2fb3a992606823241 "Full Diff")
 
 ### npm install
 ```
