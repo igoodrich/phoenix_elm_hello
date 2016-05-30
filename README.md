@@ -1,12 +1,13 @@
 # PhoenixElmHello
 
 ## Screenshot
+![alt text](https://github.com/igoodrich/phoenix_elm_hello/blob/master/web/static/assets/images/hello_from_elmland.png "Screenshot")
 
 ## Blog Posts
 
-Check these out for more details.
-http://www.cultivatehq.com/posts/phoenix-elm-2/
-https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.aiom56gn7
+### Check these out for more details.
+* http://www.cultivatehq.com/posts/phoenix-elm-2/
+* https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.aiom56gn7
 
 ## Versions
 
@@ -15,12 +16,13 @@ https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.aiom56g
 
 ## Why
 
-Check out how few changes need to be made to get phoenix and elm working together.
-I thought a github project and a diff would be useful.
+I thought a github project and a diff would be a simplest way to see what should be done.
+If you want more of a walk through, check out the helpful blog posts.
 
 ## Diff
 
 Here's the diff.
+![alt text](https://github.com/igoodrich/phoenix_elm_hello/commit/c8442a72fda6f9fe9e4d16a2fb3a992606823241 "Full Diff")
 
 ## Instructions
 
